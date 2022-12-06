@@ -1,11 +1,1 @@
-git clone
-mkdir
-touch
-echo
-cat
-git add
-git commit
-git push
-rm
-git merge
-git checkout
+git pull
